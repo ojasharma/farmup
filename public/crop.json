@@ -1,0 +1,679 @@
+
+
+[
+  {
+    "crop":"Rice",
+    "category":"Cereal",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Sep-Oct (transplant\/sowing)",
+    "typical_harvest_months":"Sep-Dec \/ Mar-May",
+    "major_states":"West Bengal; Uttar Pradesh; Andhra Pradesh; Punjab; Odisha; Chhattisgarh; Tamil Nadu",
+    "notes":"Main staple; irrigated and rainfed ecologies"
+  },
+  {
+    "crop":"Wheat",
+    "category":"Cereal",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Dec",
+    "typical_harvest_months":"Mar-May",
+    "major_states":"Punjab; Haryana; Uttar Pradesh; Madhya Pradesh; Rajasthan",
+    "notes":"Temperate\/rainfed-irrigated; major rabi cereal"
+  },
+  {
+    "crop":"Maize",
+    "category":"Cereal",
+    "season":"Kharif\/Rabi\/Zaid",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov \/ Mar-Apr",
+    "typical_harvest_months":"Sep-Dec \/ Jan-Mar \/ Apr-Jun",
+    "major_states":"Madhya Pradesh; Karnataka; Maharashtra; Uttar Pradesh; Andhra Pradesh",
+    "notes":"Used as food, feed, and industrial"
+  },
+  {
+    "crop":"Sorghum (Jowar)",
+    "category":"Cereal",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-May",
+    "major_states":"Maharashtra; Karnataka; Telangana; Madhya Pradesh; Rajasthan",
+    "notes":"Drought tolerant; used as staple and fodder"
+  },
+  {
+    "crop":"Pearl Millet (Bajra)",
+    "category":"Cereal",
+    "season":"Kharif",
+    "typical_sowing_months":"Jun-Jul",
+    "typical_harvest_months":"Sep-Nov",
+    "major_states":"Rajasthan; Gujarat; Haryana; Uttar Pradesh; Maharashtra",
+    "notes":"Rainfed, arid zones"
+  },
+  {
+    "crop":"Finger Millet (Ragi)",
+    "category":"Cereal",
+    "season":"Rabi\/Kharif",
+    "typical_sowing_months":"Jun-Jul \/ Sep-Oct",
+    "typical_harvest_months":"Oct-Dec \/ Dec-Feb",
+    "major_states":"Karnataka; Andhra Pradesh; Tamil Nadu; Chhattisgarh",
+    "notes":"Small millet, nutritious"
+  },
+  {
+    "crop":"Barley",
+    "category":"Cereal",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Dec",
+    "typical_harvest_months":"Mar-May",
+    "major_states":"Himachal Pradesh; Uttar Pradesh; Rajasthan; Punjab",
+    "notes":"Used for feed, malt, food"
+  },
+  {
+    "crop":"Foxtail Millet",
+    "category":"Millet",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Karnataka; Tamil Nadu; Andhra Pradesh; Telangana",
+    "notes":"Small millet"
+  },
+  {
+    "crop":"Little Millet",
+    "category":"Millet",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Maharashtra; Karnataka; Tamil Nadu; Andhra Pradesh",
+    "notes":"Small millet"
+  },
+  {
+    "crop":"Kodo Millet",
+    "category":"Millet",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Madhya Pradesh; Chhattisgarh; Maharashtra",
+    "notes":"Small millet"
+  },
+  {
+    "crop":"Chickpea (Gram)",
+    "category":"Pulse",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Dec",
+    "typical_harvest_months":"Mar-May",
+    "major_states":"Madhya Pradesh; Rajasthan; Maharashtra; Uttar Pradesh",
+    "notes":"Major rabi pulse"
+  },
+  {
+    "crop":"Pigeon Pea (Arhar\/Toor)",
+    "category":"Pulse",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Nov-Dec (long-duration)",
+    "typical_harvest_months":"Sep-Dec \/ Feb-Apr",
+    "major_states":"Madhya Pradesh; Maharashtra; Karnataka; Uttar Pradesh; Andhra Pradesh",
+    "notes":"Important kharif pulse"
+  },
+  {
+    "crop":"Moong (Green Gram)",
+    "category":"Pulse",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Maharashtra; Rajasthan; Uttar Pradesh; Karnataka; Gujarat",
+    "notes":"Short-duration varieties fit multiple seasons"
+  },
+  {
+    "crop":"Urad (Black Gram)",
+    "category":"Pulse",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Andhra Pradesh; Tamil Nadu; Maharashtra; Uttar Pradesh",
+    "notes":"Used for dals and idli\/dosa batter"
+  },
+  {
+    "crop":"Lentil (Masoor)",
+    "category":"Pulse",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Dec",
+    "typical_harvest_months":"Mar-May",
+    "major_states":"Uttar Pradesh; Madhya Pradesh; Bihar; West Bengal",
+    "notes":"Cool-season pulse"
+  },
+  {
+    "crop":"Cowpea (Lobia)",
+    "category":"Pulse",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Sep-Oct",
+    "typical_harvest_months":"Sep-Dec \/ Mar-May",
+    "major_states":"Maharashtra; Uttar Pradesh; Karnataka; Odisha",
+    "notes":"Used as vegetable and pulse"
+  },
+  {
+    "crop":"Groundnut (Peanut)",
+    "category":"Oilseed",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Feb-Apr",
+    "major_states":"Gujarat; Andhra Pradesh; Tamil Nadu; Karnataka; Maharashtra",
+    "notes":"Major oilseed; rainfed and irrigated"
+  },
+  {
+    "crop":"Soybean",
+    "category":"Oilseed",
+    "season":"Kharif",
+    "typical_sowing_months":"Jun-Jul",
+    "typical_harvest_months":"Sep-Oct",
+    "major_states":"Madhya Pradesh; Maharashtra; Rajasthan; Uttar Pradesh; Chhattisgarh",
+    "notes":"Key oilseed and protein source"
+  },
+  {
+    "crop":"Rapeseed & Mustard",
+    "category":"Oilseed",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Mar-Apr",
+    "major_states":"Rajasthan; Uttar Pradesh; Haryana; West Bengal; Madhya Pradesh",
+    "notes":"Rabi oilseed"
+  },
+  {
+    "crop":"Sesame (Til)",
+    "category":"Oilseed",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Andhra Pradesh; Telangana; Maharashtra; Gujarat; Odisha",
+    "notes":"Drought tolerant"
+  },
+  {
+    "crop":"Sunflower",
+    "category":"Oilseed",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Karnataka; Telangana; Andhra Pradesh; Maharashtra",
+    "notes":"Area expanding as oilseed"
+  },
+  {
+    "crop":"Castor",
+    "category":"Oilseed",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Gujarat; Rajasthan; Andhra Pradesh",
+    "notes":"Industrial oilseed"
+  },
+  {
+    "crop":"Safflower",
+    "category":"Oilseed",
+    "season":"Rabi\/Kharif",
+    "typical_sowing_months":"Oct-Nov \/ Jun-Jul",
+    "typical_harvest_months":"Mar-May \/ Sep-Oct",
+    "major_states":"Maharashtra; Karnataka; Andhra Pradesh",
+    "notes":"Dryland oilseed"
+  },
+  {
+    "crop":"Cotton",
+    "category":"Fiber",
+    "season":"Kharif",
+    "typical_sowing_months":"Jun-Jul",
+    "typical_harvest_months":"Oct-Dec",
+    "major_states":"Maharashtra; Gujarat; Telangana; Punjab; Haryana; Karnataka",
+    "notes":"Major fiber crop; Bt cotton widely adopted"
+  },
+  {
+    "crop":"Jute & Mesta",
+    "category":"Fiber",
+    "season":"Kharif",
+    "typical_sowing_months":"Apr-Jun (jute planting)",
+    "typical_harvest_months":"Aug-Nov",
+    "major_states":"West Bengal; Bihar; Assam; Odisha",
+    "notes":"Bast fiber crops"
+  },
+  {
+    "crop":"Sugarcane",
+    "category":"Cash",
+    "season":"Year-round (planted Oct-Mar)",
+    "typical_sowing_months":"Oct-Mar (planting)",
+    "typical_harvest_months":"Oct-Dec (ratoon harvests vary)",
+    "major_states":"Uttar Pradesh; Maharashtra; Karnataka; Tamil Nadu; Andhra Pradesh",
+    "notes":"Long-duration ratoonable crop"
+  },
+  {
+    "crop":"Tobacco",
+    "category":"Cash",
+    "season":"Kharif\/Rabi (varies)",
+    "typical_sowing_months":"Feb-May \/ Sep-Nov (varies by type)",
+    "typical_harvest_months":"Jul-Oct \/ Dec-Feb",
+    "major_states":"Andhra Pradesh; Karnataka; Gujarat; Uttar Pradesh; Telangana",
+    "notes":"Commercial crop with regional types"
+  },
+  {
+    "crop":"Potato",
+    "category":"Vegetable",
+    "season":"Rabi\/Kharif\/Zaid",
+    "typical_sowing_months":"Oct-Dec \/ Feb-Mar \/ Mar-Apr",
+    "typical_harvest_months":"Feb-Apr \/ May-Jun \/ Jun-Jul",
+    "major_states":"West Bengal; Uttar Pradesh; Bihar; Punjab; Gujarat",
+    "notes":"Staple tuber; multiple planting windows"
+  },
+  {
+    "crop":"Onion",
+    "category":"Vegetable",
+    "season":"Rabi\/Kharif\/Zaid",
+    "typical_sowing_months":"Sep-Nov \/ Feb-Mar \/ Mar-Apr",
+    "typical_harvest_months":"Feb-May \/ Jun-Jul \/ Jun-Aug",
+    "major_states":"Maharashtra; Karnataka; Gujarat; Madhya Pradesh; Rajasthan",
+    "notes":"Bulb crop with storability"
+  },
+  {
+    "crop":"Tomato",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi\/Zaid",
+    "typical_sowing_months":"Oct-Dec \/ Jun-Jul \/ Feb-Mar",
+    "typical_harvest_months":"Jan-Mar \/ Sep-Nov \/ Apr-May",
+    "major_states":"Andhra Pradesh; Karnataka; Maharashtra; Bihar; Uttar Pradesh",
+    "notes":"Perishable, warm-season varieties"
+  },
+  {
+    "crop":"Brinjal (Eggplant)",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi\/Zaid",
+    "typical_sowing_months":"May-Jun \/ Sep-Oct \/ Nov-Dec",
+    "typical_harvest_months":"Aug-Oct \/ Jan-Mar \/ Mar-Apr",
+    "major_states":"West Bengal; Bihar; Odisha; Andhra Pradesh; Karnataka",
+    "notes":"Common solanaceous vegetable"
+  },
+  {
+    "crop":"Okra (Bhindi)",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Apr-May \/ Jun-Jul",
+    "typical_harvest_months":"Jul-Oct \/ Sep-Dec",
+    "major_states":"Maharashtra; Bihar; Andhra Pradesh; West Bengal; Karnataka",
+    "notes":"Warm-season vegetable"
+  },
+  {
+    "crop":"Cauliflower",
+    "category":"Vegetable",
+    "season":"Rabi\/Kharif",
+    "typical_sowing_months":"Oct-Nov \/ Jul-Aug",
+    "typical_harvest_months":"Jan-Mar \/ Oct-Dec",
+    "major_states":"Karnataka; West Bengal; Bihar; Uttar Pradesh; Gujarat",
+    "notes":"Cool-season varieties common in rabi"
+  },
+  {
+    "crop":"Cabbage",
+    "category":"Vegetable",
+    "season":"Rabi\/Kharif",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Jan-Mar",
+    "major_states":"Maharashtra; West Bengal; Karnataka; Bihar",
+    "notes":"Cool-season"
+  },
+  {
+    "crop":"Pea (Garden Pea)",
+    "category":"Vegetable\/Pulse",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Jan-Mar",
+    "major_states":"Uttar Pradesh; Bihar; West Bengal; Punjab",
+    "notes":"Cool-season vegetable and pulse"
+  },
+  {
+    "crop":"Cucumber",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi\/Zaid",
+    "typical_sowing_months":"Mar-Apr \/ Jun-Jul \/ Feb-Mar",
+    "typical_harvest_months":"Jun-Aug \/ Sep-Nov \/ Apr-May",
+    "major_states":"Punjab; Maharashtra; Karnataka; Gujarat",
+    "notes":"Trellised vegetable"
+  },
+  {
+    "crop":"Leafy Greens (Spinach, Palak)",
+    "category":"Vegetable",
+    "season":"Rabi\/Kharif\/Zaid",
+    "typical_sowing_months":"Oct-Mar \/ Jun-Aug \/ Year-round pockets",
+    "typical_harvest_months":"Nov-Apr \/ Jul-Sep",
+    "major_states":"All major states",
+    "notes":"Short-duration, multiple sowings"
+  },
+  {
+    "crop":"Mango",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Flowering Jan-Mar; fruiting Apr-Jun",
+    "typical_harvest_months":"Apr-Jun (harvest peak)",
+    "major_states":"Maharashtra; Uttar Pradesh; Andhra Pradesh; Karnataka; Gujarat; Tamil Nadu",
+    "notes":"India's major fruit crop"
+  },
+  {
+    "crop":"Banana",
+    "category":"Fruit",
+    "season":"Tropical\/Perennial",
+    "typical_sowing_months":"Planting year-round depending on region",
+    "typical_harvest_months":"Harvest 9-12 months after planting",
+    "major_states":"Tamil Nadu; Maharashtra; Gujarat; Andhra Pradesh; Karnataka",
+    "notes":"Staple fruit in many regions"
+  },
+  {
+    "crop":"Citrus (Orange, Mosambi)",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Oct-Nov \/ Feb-Mar (flowering)",
+    "typical_harvest_months":"Jan-Mar \/ Mar-May",
+    "major_states":"Maharashtra; Madhya Pradesh; Gujarat; Andhra Pradesh; Punjab",
+    "notes":"Varies by species"
+  },
+  {
+    "crop":"Guava",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Planting year-round; flowering Sep-Nov & Feb-Apr",
+    "typical_harvest_months":"Oct-Dec & Apr-Jun",
+    "major_states":"Uttar Pradesh; Maharashtra; Gujarat; Bihar; Punjab",
+    "notes":"Multiple cropping possible"
+  },
+  {
+    "crop":"Apple",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Planting in summer; flowering Mar-Apr",
+    "typical_harvest_months":"Jul-Sep",
+    "major_states":"Himachal Pradesh; Jammu & Kashmir; Uttarakhand; Nagaland",
+    "notes":"Temperate fruit in hills"
+  },
+  {
+    "crop":"Grape",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Nov-Dec (pruning\/planting)",
+    "typical_harvest_months":"Jan-Apr (table grapes vary)",
+    "major_states":"Maharashtra; Karnataka; Telangana; Tamil Nadu; Andhra Pradesh",
+    "notes":"Table and raisin grapes"
+  },
+  {
+    "crop":"Pomegranate",
+    "category":"Fruit",
+    "season":"Horticulture",
+    "typical_sowing_months":"Planting & flowering Feb-Apr",
+    "typical_harvest_months":"Aug-Nov",
+    "major_states":"Maharashtra; Andhra Pradesh; Karnataka; Gujarat",
+    "notes":"Drought tolerant variety exists"
+  },
+  {
+    "crop":"Papaya",
+    "category":"Fruit",
+    "season":"Tropical\/Perennial",
+    "typical_sowing_months":"Planting year-round",
+    "typical_harvest_months":"6-9 months after planting",
+    "major_states":"Andhra Pradesh; Karnataka; Maharashtra; Assam; Tripura",
+    "notes":"Fast-growing perennial"
+  },
+  {
+    "crop":"Chilli (Red Pepper)",
+    "category":"Spice",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Oct-Nov",
+    "typical_harvest_months":"Sep-Dec \/ Mar-Apr",
+    "major_states":"Andhra Pradesh; Telangana; Karnataka; Maharashtra; Orissa",
+    "notes":"Major spice in India"
+  },
+  {
+    "crop":"Turmeric",
+    "category":"Spice",
+    "season":"Kharif",
+    "typical_sowing_months":"Apr-Jun (planting)",
+    "typical_harvest_months":"Nov-Feb",
+    "major_states":"Tamil Nadu; Andhra Pradesh; Odisha; Karnataka; Maharashtra",
+    "notes":"Rhizome crop"
+  },
+  {
+    "crop":"Ginger",
+    "category":"Spice",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Mar-May",
+    "typical_harvest_months":"Oct-Dec",
+    "major_states":"Kerala; Meghalaya; Arunachal Pradesh; Assam; Uttar Pradesh",
+    "notes":"Rhizome crop"
+  },
+  {
+    "crop":"Black Pepper",
+    "category":"Spice\/Plantation",
+    "season":"Perennial (plantation)",
+    "typical_sowing_months":"Planting year-round in suitable areas",
+    "typical_harvest_months":"Harvesting varies by maturity, often annual spikes",
+    "major_states":"Kerala; Karnataka; Tamil Nadu",
+    "notes":"Climber; plantation crop"
+  },
+  {
+    "crop":"Cardamom",
+    "category":"Spice\/Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting in shaded plantation areas",
+    "typical_harvest_months":"Harvests multiple times a year depending on region",
+    "major_states":"Kerala; Karnataka; Assam; Tamil Nadu",
+    "notes":"High-value spice"
+  },
+  {
+    "crop":"Coriander (Cilantro)",
+    "category":"Spice\/Herb",
+    "season":"Rabi\/Kharif",
+    "typical_sowing_months":"Oct-Nov \/ Sep-Oct",
+    "typical_harvest_months":"Jan-Mar \/ Nov-Dec",
+    "major_states":"Rajasthan; Madhya Pradesh; Gujarat; Karnataka",
+    "notes":"Leaf and seed crop"
+  },
+  {
+    "crop":"Cumin",
+    "category":"Spice",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Apr-Jun",
+    "major_states":"Rajasthan; Gujarat; Madhya Pradesh",
+    "notes":"Arid\/semi-arid crop"
+  },
+  {
+    "crop":"Fenugreek (Methi)",
+    "category":"Herb\/Spice",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Jan-Feb",
+    "major_states":"Rajasthan; Uttar Pradesh; Gujarat; Haryana",
+    "notes":"Leafy and seed uses"
+  },
+  {
+    "crop":"Tea",
+    "category":"Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting year-round in suitable areas",
+    "typical_harvest_months":"Harvesting (flushes) throughout year",
+    "major_states":"Assam; West Bengal (Darjeeling); Kerala; Tamil Nadu; Meghalaya",
+    "notes":"Plucking in flushes; major export"
+  },
+  {
+    "crop":"Coffee",
+    "category":"Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting in shaded areas",
+    "typical_harvest_months":"Harvest typically Nov-Mar depending on region",
+    "major_states":"Karnataka; Kerala; Tamil Nadu",
+    "notes":"Arabica and Robusta zones"
+  },
+  {
+    "crop":"Rubber",
+    "category":"Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting year-round in tropics",
+    "typical_harvest_months":"Latex tapping year-round",
+    "major_states":"Kerala; Tamil Nadu; Tripura; Assam",
+    "notes":"Tropical plantation crop"
+  },
+  {
+    "crop":"Coconut",
+    "category":"Plantation\/Perennial",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting year-round in coastal zones",
+    "typical_harvest_months":"Harvest throughout year",
+    "major_states":"Kerala; Tamil Nadu; Karnataka; Andhra Pradesh; Gujarat",
+    "notes":"Staple coastal crop"
+  },
+  {
+    "crop":"Arecanut",
+    "category":"Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting in humid tropics",
+    "typical_harvest_months":"Harvest year-round depending on region",
+    "major_states":"Karnataka; Kerala; Assam; Meghalaya",
+    "notes":"Betel nut crop"
+  },
+  {
+    "crop":"Sweet Potato",
+    "category":"Root\/Tuber",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Mar-Apr \/ Jun-Jul",
+    "typical_harvest_months":"Jun-Sep \/ Sep-Dec",
+    "major_states":"West Bengal; Odisha; Maharashtra; Andhra Pradesh",
+    "notes":"Versatile tuber"
+  },
+  {
+    "crop":"Cassava (Tapioca)",
+    "category":"Root\/Tuber",
+    "season":"Perennial\/Kharif",
+    "typical_sowing_months":"Planting year-round in tropics",
+    "typical_harvest_months":"9-12 months after planting",
+    "major_states":"Tamil Nadu; Kerala; Andhra Pradesh; Gujarat",
+    "notes":"Starchy root crop"
+  },
+  {
+    "crop":"Berseem (Egyptian clover)",
+    "category":"Fodder",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Jan-Apr",
+    "major_states":"Punjab; Haryana; Uttar Pradesh; Bihar; Rajasthan",
+    "notes":"Major rabi fodder for livestock"
+  },
+  {
+    "crop":"Napier grass",
+    "category":"Fodder",
+    "season":"Perennial\/Year-round",
+    "typical_sowing_months":"Planting year-round",
+    "typical_harvest_months":"Frequent cuts; year-round",
+    "major_states":"Karnataka; Andhra Pradesh; Tamil Nadu; Maharashtra",
+    "notes":"High-yielding fodder"
+  },
+  {
+    "crop":"Lucerne (Alfalfa)",
+    "category":"Fodder",
+    "season":"Rabi\/Zaid",
+    "typical_sowing_months":"Oct-Nov \/ Feb-Mar",
+    "typical_harvest_months":"Jan-May \/ Apr-Jun",
+    "major_states":"Maharashtra; Gujarat; Punjab; Haryana; Rajasthan",
+    "notes":"High-protein fodder"
+  },
+  {
+    "crop":"Areca Palm (Betel nut)",
+    "category":"Cash\/Plantation",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting year-round in humid tropics",
+    "typical_harvest_months":"Harvest year-round",
+    "major_states":"Karnataka; Kerala; Assam; Meghalaya",
+    "notes":"Used in betel nut production"
+  },
+  {
+    "crop":"Betel Vine (Paan)",
+    "category":"Cash\/Perennial",
+    "season":"Perennial",
+    "typical_sowing_months":"Propagation year-round",
+    "typical_harvest_months":"Harvest multiple times a year",
+    "major_states":"Assam; West Bengal; Kerala; Tamil Nadu",
+    "notes":"Specialized horticulture with high labour"
+  },
+  {
+    "crop":"Sannh",
+    "category":"Misc",
+    "season":"-",
+    "typical_sowing_months":"-",
+    "typical_harvest_months":"-",
+    "major_states":"-",
+    "notes":"Placeholder"
+  },
+  {
+    "crop":"Aloe Vera",
+    "category":"Medicinal\/Horticulture",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting year-round",
+    "typical_harvest_months":"Leaves harvested as needed",
+    "major_states":"Gujarat; Rajasthan; Karnataka; Maharashtra",
+    "notes":"Industrial & medicinal use"
+  },
+  {
+    "crop":"Stevia",
+    "category":"Medicinal\/Sweetener",
+    "season":"Perennial",
+    "typical_sowing_months":"Planting in subtropical zones",
+    "typical_harvest_months":"Harvest multiple times a year",
+    "major_states":"Maharashtra; Karnataka; Tamil Nadu",
+    "notes":"Natural sweetener crop"
+  },
+  {
+    "crop":"Pumpkin",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Jun-Jul \/ Sep-Oct",
+    "typical_harvest_months":"Sep-Nov \/ Nov-Jan",
+    "major_states":"Uttar Pradesh; Maharashtra; Karnataka; West Bengal",
+    "notes":"Summer and winter varieties"
+  },
+  {
+    "crop":"Bottle Gourd (Lauki)",
+    "category":"Vegetable",
+    "season":"Kharif\/Rabi",
+    "typical_sowing_months":"Mar-Apr \/ Jun-Jul \/ Sep-Oct",
+    "typical_harvest_months":"Jun-Aug \/ Sep-Nov \/ Nov-Jan",
+    "major_states":"Punjab; Uttar Pradesh; Maharashtra; Gujarat",
+    "notes":"Climbing vegetable"
+  },
+  {
+    "crop":"Watermelon",
+    "category":"Fruit\/Vegetable",
+    "season":"Kharif\/Zaid",
+    "typical_sowing_months":"Feb-Mar \/ Mar-Apr",
+    "typical_harvest_months":"May-Jun \/ Jun-Jul",
+    "major_states":"Rajasthan; Gujarat; Haryana; Maharashtra",
+    "notes":"Summer fruit"
+  },
+  {
+    "crop":"Muskmelon (Cantaloupe)",
+    "category":"Fruit\/Vegetable",
+    "season":"Kharif\/Zaid",
+    "typical_sowing_months":"Feb-Mar \/ Mar-Apr",
+    "typical_harvest_months":"May-Jun \/ Jun-Jul",
+    "major_states":"Punjab; Haryana; Gujarat; Maharashtra",
+    "notes":"Summer melon"
+  },
+  {
+    "crop":"Ajwain (Carom)",
+    "category":"Spice",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Apr-May",
+    "major_states":"Rajasthan; Gujarat; Uttar Pradesh",
+    "notes":"Aromatic spice"
+  },
+  {
+    "crop":"Mustard greens (Sarson)",
+    "category":"Vegetable\/Leaf",
+    "season":"Rabi",
+    "typical_sowing_months":"Oct-Nov",
+    "typical_harvest_months":"Jan-Mar",
+    "major_states":"Punjab; Haryana; West Bengal; Uttar Pradesh",
+    "notes":"Leafy oilseed crop greens"
+  },
+  {
+    "crop":"Saffron",
+    "category":"Spice\/High-value",
+    "season":"Rabi (temperate hills)",
+    "typical_sowing_months":"Planting in summer, corms Jul-Aug",
+    "typical_harvest_months":"Oct-Nov",
+    "major_states":"Jammu & Kashmir; Himachal Pradesh",
+    "notes":"High-value, labour-intensive"
+  }
+]
