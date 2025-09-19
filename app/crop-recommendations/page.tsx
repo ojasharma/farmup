@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
@@ -87,7 +87,7 @@ const getInitialRecommendations = (farmArea: number): CropRecommendation[] => [
     {id:'vegetables',name:'Mixed Vegetables',icon:<Apple className="h-8 w-8"/>,description:'Diverse vegetable crops for local market supply.',idealArea:Math.round(farmArea * 0.2),maxArea:Math.round(farmArea * 0.4),growthPeriod:'2-6 months',waterRequirement:'Medium',profitability:'Medium',difficulty:'Medium',marketPrice:'₹1,800/quintal',benefits:['Diverse income','Local market'],color:'#8B5CF6'},
 ];
 
-export default function CropRecommendationsPage() {
+function RecommendationsContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const farmId = searchParams.get('farmId');
@@ -303,5 +303,14 @@ export default function CropRecommendationsPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+
+export default function CropRecommendationsPage() {
+  return (
+    <Suspense fallback={<div className="flex h-screen items-center justify-center"><Loader2 className="h-16 w-16 animate-spin text-green-600"/></div>}>
+      <RecommendationsContent />
+    </Suspense>
   );
 }
